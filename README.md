@@ -28,6 +28,6 @@ Welcome to my Netflix Clone project! 🍿 A simple web page built with HTML, CSS
 
 ## Contact Me 📬
 
-If you have any questions or suggestions, feel free to contact me at your@email.com.
+If you have any questions or suggestions, feel free to contact me at sujeet17052003@gmail.com.
 
 🌟 Don't forget to give this repository a star if you found it helpful! 🌟
